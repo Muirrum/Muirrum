@@ -1,5 +1,5 @@
-### Owen Salter
-Rising senior, Eagle Scout, and Rustacean. Most of my code is actually over at [Sourcehut](https://sr.ht/~muirrum). You can find my blog [here](https://devosmium.xyz)
+### Cara Salter (she/her)
+CS Student, Eagle Scout. Most of my code is actually over at [Sourcehut](https://sr.ht/~muirrum). You can find my blog [here](https://devcara.com)
 
 #### Current Projects
 - [Hackagotchi](https://github.com/Hackagotchi) - Economy farming game written in Rust
