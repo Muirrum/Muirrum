@@ -2,9 +2,6 @@
 CS Student, Eagle Scout. Most of my code is actually over at [Sourcehut](https://sr.ht/~muirrum) or [Gitea](https://git.devcara.com). You can find my blog [here](https://devcara.com)
 
 #### Current Projects
-- [Hackagotchi](https://github.com/Hackagotchi) - Economy farming game written in Rust
-- [Campmaster Constantine](https://sr.ht/~muirrum/Campmaster-Constantine/) - Discord bot written in Rust using Serenity
-- [FLL-Scoring](https://sr.ht/~muirrum/FLL-Scoring/) - Replacement for [fll-tools](https://github.com/FirstLegoLeague)
 - [solard](https://git.devcara.com/solard) - REST-based virtual machine management
 - [nccd](https://git.devcara.com/muirrum/nccd) - Wireguard node provisioning tool
 
