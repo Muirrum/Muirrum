@@ -1,9 +1,13 @@
 ### Cara Salter (she/her)
-CS Student, Eagle Scout. Most of my code is actually over at [Sourcehut](https://sr.ht/~muirrum) or [Gitea](https://git.devcara.com). You can find my blog [here](https://devcara.com)
+Network Engineer, sysadmin, Eagle Scout. Most of my code is actually over at [Sourcehut](https://git.sr.ht/~muirrum). You can find my blog [here](https://devcara.com)
+
+In my spare time, I enjoy film photography with my Canon AE-1 and Nikon F, as well as producing live events with [WPI Lens and Lights](https://lnl.wpi.edu).
 
 #### Current Projects
-- [solard](https://git.devcara.com/solard) - REST-based virtual machine management
-- [nccd](https://git.devcara.com/muirrum/nccd) - Wireguard node provisioning tool
+* Still rewriting the [WPI ACM website](https://github.com/wpi-acm/acm-site)
+
+#### Reaching me
+I'm best reached via email to cara -at- devcara.com. I'm also on [Libera.chat](https://libera.chat) as `muirrum`.
 
 <!--
 **Muirrum/Muirrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
