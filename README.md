@@ -1,13 +1,10 @@
 ### Cara Salter (she/her)
-Network Engineer, sysadmin, Eagle Scout. Most of my code is actually over at [Sourcehut](https://git.sr.ht/~muirrum). You can find my blog [here](https://devcara.com)
+Network Engineer/Sysadmin. Radio, film, and CRT enthusiast. Most of my code is actually over at [Sourcehut](https://git.sr.ht/~muirrum). You can find my blog [here](https://devcara.com)
 
-In my spare time, I enjoy film photography with my Canon AE-1 and Nikon F, as well as producing live events with [WPI Lens and Lights](https://lnl.wpi.edu).
-
-#### Current Projects
-* Still rewriting the [WPI ACM website](https://github.com/wpi-acm/acm-site)
+In my spare time, I enjoy film photography with my Canon AE-1 and Nikon F, as well as vibrating the electromagnetic spectrum at certain frequencies.
 
 #### Reaching me
-I'm best reached via email to cara -at- devcara.com. I'm also on [Libera.chat](https://libera.chat) as `muirrum`.
+I'm best reached via email to github -at- devcara.com. I'm also on [Libera.chat](https://libera.chat) as `muirrum`.
 
 <!--
 **Muirrum/Muirrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
